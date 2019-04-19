@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  TrailerApp
+
+  Created by Rick De Vries on 15/04/2019.
+  Copyright © 2019 Rick De Vries. All rights reserved.
+*/
+"URL" = "https://appstubs.triple-it.nl/trailers?language=nl";

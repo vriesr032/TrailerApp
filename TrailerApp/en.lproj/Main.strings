@@ -1,0 +1,29 @@
+
+/* Class = "UILabel"; text = "Genre: "; ObjectID = "CMC-gF-rsu"; */
+"CMC-gF-rsu.text" = "Genre: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F9D-Sz-IUH"; */
+"F9D-Sz-IUH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "←"; ObjectID = "GvY-q0-ioF"; */
+"GvY-q0-ioF.normalTitle" = "←";
+
+/* Class = "UIViewController"; title = "TrailerDetailController"; ObjectID = "JN2-t2-9k6"; */
+"JN2-t2-9k6.title" = "TrailerDetailController";
+
+/* Class = "UIButton"; normalTitle = "Watch Trailer"; ObjectID = "JfF-qb-Nx6"; */
+"JfF-qb-Nx6.normalTitle" = "Watch Trailer";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "aEG-yV-SZZ"; */
+"aEG-yV-SZZ.normalTitle" = "Share";
+
+/* Class = "UINavigationItem"; title = "Trailers"; ObjectID = "kgZ-Gb-N0D"; */
+"kgZ-Gb-N0D.title" = "Trailers";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uQ1-7r-Bo1"; */
+"uQ1-7r-Bo1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wLk-z3-bxJ"; */
+"wLk-z3-bxJ.text" = "Label";
+
+"URL" = "https://appstubs.triple-it.nl/trailers/";
